@@ -1,0 +1,9 @@
+C:\Users\Junio\Documents\Visual Studio 2017\Projects\APITwo\APITwo\bin\Release\netcoreapp1.1\APITwo.deps.json
+C:\Users\Junio\Documents\Visual Studio 2017\Projects\APITwo\APITwo\bin\Release\netcoreapp1.1\APITwo.runtimeconfig.json
+C:\Users\Junio\Documents\Visual Studio 2017\Projects\APITwo\APITwo\bin\Release\netcoreapp1.1\APITwo.runtimeconfig.dev.json
+C:\Users\Junio\Documents\Visual Studio 2017\Projects\APITwo\APITwo\bin\Release\netcoreapp1.1\APITwo.dll
+C:\Users\Junio\Documents\Visual Studio 2017\Projects\APITwo\APITwo\bin\Release\netcoreapp1.1\APITwo.pdb
+C:\Users\Junio\Documents\Visual Studio 2017\Projects\APITwo\APITwo\obj\Release\netcoreapp1.1\APITwo.csprojResolveAssemblyReference.cache
+C:\Users\Junio\Documents\Visual Studio 2017\Projects\APITwo\APITwo\obj\Release\netcoreapp1.1\APITwo.AssemblyInfo.cs
+C:\Users\Junio\Documents\Visual Studio 2017\Projects\APITwo\APITwo\obj\Release\netcoreapp1.1\APITwo.dll
+C:\Users\Junio\Documents\Visual Studio 2017\Projects\APITwo\APITwo\obj\Release\netcoreapp1.1\APITwo.pdb
